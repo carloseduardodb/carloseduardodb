@@ -12,7 +12,7 @@
 </div>
 
 ## Entre em contato 
-- 📫 Email: carloeduardodiasbatista@gmail.com
+- 📫 Email: carloseduardodiasbatista@gmail.com
 
 ##  👨‍🏫 HARD SKILLS.
 - C.
