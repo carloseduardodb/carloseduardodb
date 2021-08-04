@@ -1,6 +1,6 @@
 
 
-### Tente impedir a cobrinha de comer os repositorios :D
+### Tente impedir a cobrinha de comer as minhas ações :D
 
 ![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)
 
