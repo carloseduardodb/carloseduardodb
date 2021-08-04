@@ -1,33 +1,31 @@
 
 
-### Olá 👋
+### Hello 👋
+
+![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **carloseduardodb/carloseduardodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-<div style="display: flex; flex-direction: row;">
-<p align="center">
-<img width="150" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif">
-</p>
-</div>
 
 ## Entre em contato 
 - 📫 Email: carloseduardodiasbatista@gmail.com
 
 ##  👨‍🏫 HARD SKILLS.
-- C.
-- SQL(MySql, Sqlite).
-- Java (Javafx, Jsp, Desenvolvimento Mobile).
-- PHP.
-- Laravel 8, 7, 6.
+- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> (Javafx, Jsp, Desenvolvimento Mobile).
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 8, 7, 6.
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 - Livewire.
-- HTML.
-- CSS.
-- Tailwind.
-- Bootstrap.
-- SASS. 
-- React.
-- React Native.
 
 ## Sobre
 - 🌱 
@@ -48,5 +46,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carloseduardodb&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)
