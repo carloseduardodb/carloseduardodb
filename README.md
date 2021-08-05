@@ -1,5 +1,4 @@
 
-
 ### Tente impedir a cobrinha de comer as minhas ações :D
 
 ![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)
@@ -23,7 +22,7 @@
 - 📫 Email: carloseduardodiasbatista@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<img src="https://komarev.com/ghpvc/?username=carloseduardodb&color=green" alt="carloseduardodb" /> 
 <p align="center">
 <a href="https://github.com/carloseduardodb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carloseduardodb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"/>
