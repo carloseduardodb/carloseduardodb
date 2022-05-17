@@ -19,7 +19,7 @@
 - ⚡ Estou a mais de um ano estudando JavaScript porque nos projetos que fazia com JSP/PHP puro/Laravel eu também fazia os frontends das aplicações aprendendo no meio do caminho metodologias em CSS, JavaScript puro e JQuery.
 - ⚡ Comecei a estudar NodeJS a um pouco mais de 1 ano e 2 meses, ja comecei fazendo os projetos em TypeScript por já dominar os fundamentos e bases do JavaScript puro.
 - ⚡ Após me sentir confiante com Node/Typescript comecei a me desenvolver nas tecnologias de frontend sendo o React e React Native para evoluir no que até então eu ja sabia que era CSS/JavaScript/HTML aqui posso incluir alguns frameworks de frontend como (TailwindCSS, e Bootstrap) desta forma comecei a desenvolver aplicações tanto para Mobile quando para Web.
-- ⚡ Estou a mais ou menos 6 meses fazendo projetos com NestJS e NextJS.
+- ⚡ Estou a mais ou menos 8 meses fazendo projetos com NestJS e NextJS.
 - ⚡ Alguns projetos que estão nos meus repositórios são bem antigos (cerca de mais de 3 anos atrás quando eu não usava GIT)
 
 ## Entre em contato 
