@@ -1,5 +1,5 @@
 Bem vindo!
-![octocat-1675343705439.png](https://raw.githubusercontent.com/carloseduardodb/carloseduardodb/master/octocat-1675343705439.png | width=100)
+<img src="https://raw.githubusercontent.com/carloseduardodb/carloseduardodb/master/octocat-1675343705439.png" width="400">
 
 ### Tente impedir a cobrinha de comer as minhas ações :D
 
