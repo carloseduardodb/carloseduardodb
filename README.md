@@ -1,6 +1,6 @@
 ## Olá
 
-![Codeium](https://codeium.com/profile/temptingly-entranced-merlin-57000/carda.png)
+![Codeium](https://codeium.com/profile/temptingly-entranced-merlin-57000/card.png)
 
 <!--  ![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)  -->
 
