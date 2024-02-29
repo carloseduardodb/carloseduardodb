@@ -1,7 +1,8 @@
 ## Olá
 
 <!--- ![Codeium](https://codeium.com/profile/temptingly-entranced-merlin-57000/card.png?=test=02) -->
-[![autocomplete](https://codeium.com/badges/user/temptingly-entranced-merlin-57000/autocomplete)](https://codeium.com/profile/temptingly-entranced-merlin-57000)
+[![autocomplete](https://codeium.com/badges/user/carlosbatista/autocomplete)](https://codeium.com/profile/carlosbatista)
+[![streak](https://codeium.com/badges/v2/user/carlosbatista/streak)](https://codeium.com/profile/carlosbatista)
 
 <!--  ![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)  -->
 
