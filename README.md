@@ -5,7 +5,7 @@
 [![streak](https://codeium.com/badges/v2/user/carlosbatista/streak)](https://codeium.com/profile/carlosbatista)
 
 <!--  ![snake gif](https://github.com/carloseduardodb/carloseduardodb/blob/output/github-contribution-grid-snake.svg)  -->
-
+[![autocomplete](https://codeium.com/badges/user/carlosbatista/autocomplete)](https://codeium.com/profile/carlosbatista)
 <!--
 **carloseduardodb/carloseduardodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
